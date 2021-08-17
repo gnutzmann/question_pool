@@ -1,6 +1,6 @@
 # QUESTION POOL
 
-1. CREATE ENVIROMENT
+1. CREATE ENVIRONMENT
 
    Here you can use the name for the directory you prefer. I suggest "django"
 
